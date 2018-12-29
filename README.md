@@ -1,0 +1,2 @@
+# Laravel-Hostingbillling
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e34063e27f0e4b5daf311835f97b4dd4)](https://app.codacy.com/app/amerino40/Laravel-Hostingbillling?utm_source=github.com&utm_medium=referral&utm_content=amerino40/Laravel-Hostingbillling&utm_campaign=Badge_Grade_Dashboard)
